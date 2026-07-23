@@ -118,4 +118,4 @@ Upcoming Projects:
 GitHub:
 https://github.com/reddyprasannapappireddy9550-ops
 
-⭐ If you found these projects helpful, feel free to star this repository!
+⭐ If you found these projects helpful, feel free to star this repository
